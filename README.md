@@ -15,7 +15,7 @@ Dublin](https://www.tcd.ie).
 
 ## 00 - Introduction
 
-* [pdf slides](/handouts/handout-00-intro.pdf)
+* [pdf slides](/handouts/handout-00-introduction.pdf)
 
 
 
