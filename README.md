@@ -16,7 +16,28 @@ Dublin](https://www.tcd.ie).
 ## 00 - Introduction
 
 * [pdf slides](/handouts/handout-00-introduction.pdf)
+* [video (16/01/2018)](https://youtu.be/8nIrgDCW0fU)
 
+## 01 - Human Visual System
 
+## 02 - Pixel Operations
+
+## 03 - Spatial Operations
+
+## 04 - Transforms pt1
+
+## 04 - Transforms pt2
+
+## 05 - Haar 
+
+## 06 - JPEG
+
+## 07 - Wavelets
+
+## 08 - Motion
+
+## 09 - Video Compression
+
+## 10 - MPEG2
 
 
