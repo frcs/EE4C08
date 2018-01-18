@@ -20,6 +20,7 @@ Dublin](https://www.tcd.ie).
 
 ## 01 - Human Visual System
 * [pdf slides](/handouts/handout-01-human-visual-system.pdf)
+* [video pt1 (18/01/2018)](https://youtu.be/ZH3Tfxsc0YY)
 
 ## 02 - Pixel Operations
 * [pdf slides](/handouts/handout-02-pixelops.pdf)
