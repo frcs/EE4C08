@@ -26,8 +26,11 @@ Dublin](https://www.tcd.ie).
 ## 02 - Pixel Operations
 * [pdf slides](/handouts/handout-02-pixelops.pdf)
 * [video pt1 (19/01/2018)](https://youtu.be/eA3kaW-GYco)
+* [video pt2 (23/01/2018)](https://youtu.be/HIAp2QlBUOU)
 
 ## 03 - Spatial Operations
+* [pdf slides](/handouts/handout-03-pixelops.pdf)
+* [video pt1 (19/01/2018)](https://youtu.be/QSjCgHM-wTE)
 
 ## 04 - Transforms pt1
 
