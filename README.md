@@ -49,3 +49,7 @@ Dublin](https://www.tcd.ie).
 ## 10 - MPEG2
 
 
+## Working with Matlab
+* [video for demo 1 (25/01/2018)](https://youtu.be/_ST2bh1Dey8)
+
+
