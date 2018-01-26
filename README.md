@@ -31,6 +31,7 @@ Dublin](https://www.tcd.ie).
 ## 03 - Spatial Operations
 * [pdf slides](/handouts/handout-03-pixelops.pdf)
 * [video pt1 (19/01/2018)](https://youtu.be/QSjCgHM-wTE)
+* [video pt2 (26/01/2018)](https://youtu.be/l5gob1NYGSk)
 
 ## 04 - Transforms pt1
 
@@ -50,6 +51,5 @@ Dublin](https://www.tcd.ie).
 
 
 ## Working with Matlab
-* [video for demo 1 (25/01/2018)](https://youtu.be/_ST2bh1Dey8)
-
-
+* [video 1 (25/01/2018)](https://youtu.be/_ST2bh1Dey8)
+* [video 2 (26/01/2018)](https://youtu.be/l5gob1NYGSk)
