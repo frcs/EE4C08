@@ -35,7 +35,7 @@ Dublin](https://www.tcd.ie).
 
 ## 04 - Transforms 
 * [pdf slides](/handouts/handout-04-xforms-pt1.pdf)
-* [video pt1](https://youtu.be/4AKGKNnWH98)
+* [video pt1 (29/01/2018)](https://youtu.be/4AKGKNnWH98)
 
 ## 05 - Haar 
 
