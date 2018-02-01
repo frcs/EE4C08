@@ -34,7 +34,7 @@ Dublin](https://www.tcd.ie).
 * [video pt2 (26/01/2018)](https://youtu.be/l5gob1NYGSk)
 
 ## 04 - Transforms 
-* [pdf slides](/raw/master/handouts/handout-04-xforms-pt1.pdf)
+* [pdf slides](/handouts/handout-04-xforms-pt1.pdf)
 * [video pt1a (29/01/2018)](https://youtu.be/4AKGKNnWH98)
 * [video pt1b (01/02/2018)](https://youtu.be/i8HY8zPVtuI)
 
