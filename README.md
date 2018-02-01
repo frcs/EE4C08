@@ -29,13 +29,14 @@ Dublin](https://www.tcd.ie).
 * [video pt2 (23/01/2018)](https://youtu.be/HIAp2QlBUOU)
 
 ## 03 - Spatial Operations
-* [pdf slides](/handouts/handout-03-pixelops.pdf)
+* [pdf slides](/handouts/handout-03-spatialops.pdf)
 * [video pt1 (19/01/2018)](https://youtu.be/QSjCgHM-wTE)
 * [video pt2 (26/01/2018)](https://youtu.be/l5gob1NYGSk)
 
 ## 04 - Transforms 
 * [pdf slides](/handouts/handout-04-xforms-pt1.pdf)
-* [video pt1 (29/01/2018)](https://youtu.be/4AKGKNnWH98)
+* [video pt1a (29/01/2018)](https://youtu.be/4AKGKNnWH98)
+* [video pt1b (01/02/2018)](https://youtu.be/i8HY8zPVtuI)
 
 ## 05 - Haar 
 
@@ -48,7 +49,6 @@ Dublin](https://www.tcd.ie).
 ## 09 - Video Compression
 
 ## 10 - MPEG2
-
 
 ## Working with Matlab
 * [video 1 (25/01/2018)](https://youtu.be/_ST2bh1Dey8)
