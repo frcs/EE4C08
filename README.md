@@ -38,6 +38,7 @@ Dublin](https://www.tcd.ie).
 * [video pt1a (29/01/2018)](https://youtu.be/4AKGKNnWH98)
 * [video pt1b (01/02/2018)](https://youtu.be/i8HY8zPVtuI)
 * [pdf slides](/handouts/handout-04-xforms-pt2.pdf)
+* video pt1a (02/02/2018) is missing due to technical issues
 
 ## 05 - Haar 
 
