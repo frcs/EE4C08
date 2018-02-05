@@ -41,6 +41,7 @@ Dublin](https://www.tcd.ie).
 * video pt1a (02/02/2018) is missing due to technical issues
 
 ## 05 - Haar 
+* [pdf slides](/handouts/handout-05-haar.pdf)
 
 ## 06 - JPEG
 
