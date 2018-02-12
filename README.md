@@ -43,10 +43,14 @@ Dublin](https://www.tcd.ie).
 
 ## 05 - Haar 
 * [pdf slides](/handouts/handout-05-haar.pdf)
+* video pt1 (09/02/2018) is missing due to technical issues
+* [video pt2b (12/02/2018)](https://youtu.be/RMXOEitJoRc)
 
 ## 06 - JPEG
+* [pdf slides](/handouts/handout-06-jpeg.pdf)
 
 ## 07 - Wavelets
+* [pdf slides](/handouts/handout-07-wavelets.pdf)
 
 ## 08 - Motion
 
