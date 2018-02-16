@@ -61,3 +61,9 @@ Dublin](https://www.tcd.ie).
 ## Working with Matlab
 * [video 1 (25/01/2018)](https://youtu.be/_ST2bh1Dey8)
 * [video 2 (26/01/2018)](https://youtu.be/l5gob1NYGSk)
+
+## Tutorials
+* [tutorial 1 pdf](/tutorials/tutorial-1.pdf)
+* [tutorial 1 - Q1,Q2 (15/02/2018)](https://youtu.be/KDOWEmsUHm8)
+
+
