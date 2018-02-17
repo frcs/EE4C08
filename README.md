@@ -48,6 +48,7 @@ Dublin](https://www.tcd.ie).
 
 ## 06 - JPEG
 * [pdf slides](/handouts/handout-06-jpeg.pdf)
+* [video pt1 (16/02/2018)](https://youtu.be/oJcPNHoRSV0)
 
 ## 07 - Wavelets
 * [pdf slides](/handouts/handout-07-wavelets.pdf)
@@ -65,5 +66,6 @@ Dublin](https://www.tcd.ie).
 ## Tutorials
 * [tutorial 1 pdf](/tutorials/tutorial-1.pdf)
 * [tutorial 1 - Q1,Q2 (15/02/2018)](https://youtu.be/KDOWEmsUHm8)
+* [tutorial 1 - Q1,Q2 (16/02/2018)](https://youtu.be/UwuosXZgu2I)
 
 
