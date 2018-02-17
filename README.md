@@ -64,7 +64,7 @@ Dublin](https://www.tcd.ie).
 * [video 2 (26/01/2018)](https://youtu.be/l5gob1NYGSk)
 
 ## Tutorials
-* [tutorial 1 pdf](/tutorials/tutorial-1.pdf)
+* [tutorial 1 pdf](/tutorials/tutorial-01.pdf)
 * [tutorial 1 - Q1,Q2 (15/02/2018)](https://youtu.be/KDOWEmsUHm8)
 * [tutorial 1 - Q1,Q2 (16/02/2018)](https://youtu.be/UwuosXZgu2I)
 
