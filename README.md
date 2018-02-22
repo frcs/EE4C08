@@ -1,6 +1,7 @@
 # EE4C08
 
-EE4C08 is an introduction to the digital **signal processing** algorithms that are at the core of **image and video compression**.
+EE4C08 is an introduction to the digital **signal processing**
+algorithms that are at the core of **image and video compression**.
 
 The course will cover the 2D Signal Processing concepts such as 2D
 Convolution, 2D Z-Transforms and 2D Discrete Fourier Transforms and
@@ -34,10 +35,10 @@ Dublin](https://www.tcd.ie).
 * [video pt2 (26/01/2018)](https://youtu.be/l5gob1NYGSk)
 
 ## 04 - Transforms 
-* [pdf slides](/handouts/handout-04-xforms-pt1.pdf)
+* [pdf slides (pt1)](/handouts/handout-04-xforms-pt1.pdf)
 * [video pt1a (29/01/2018)](https://youtu.be/4AKGKNnWH98)
 * [video pt1b (01/02/2018)](https://youtu.be/i8HY8zPVtuI)
-* [pdf slides](/handouts/handout-04-xforms-pt2.pdf)
+* [pdf slides (pt2)](/handouts/handout-04-xforms-pt2.pdf)
 * video pt2a (02/02/2018) is missing due to technical issues
 * [video pt2b (08/02/2018)](https://youtu.be/IsAVI8Vk53I)
 
@@ -50,9 +51,11 @@ Dublin](https://www.tcd.ie).
 * [pdf slides](/handouts/handout-06-jpeg.pdf)
 * [video pt1 (16/02/2018)](https://youtu.be/oJcPNHoRSV0)
 * [video pt2 (19/02/2018)](https://youtu.be/TZp4kyqCFT0)
+* [video pt3 (22/02/2018)](https://youtu.be/ZEJSP9BR3UE)
 
 ## 07 - Wavelets
 * [pdf slides](/handouts/handout-07-wavelets.pdf)
+* [video pt1 (22/02/2018)](https://youtu.be/FdW6SEH2IXA)
 
 ## 08 - Motion
 
