@@ -56,6 +56,8 @@ Dublin](https://www.tcd.ie).
 ## 07 - Wavelets
 * [pdf slides](/handouts/handout-07-wavelets.pdf)
 * [video pt1 (22/02/2018)](https://youtu.be/FdW6SEH2IXA)
+* [video pt2 (23/02/2018)](https://youtu.be/HyTDyLU2FsQ)
+* [video pt3 (05/03/2018)](https://youtu.be/Si7FGw5ZF6M)
 
 ## 08 - Motion
 
