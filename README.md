@@ -60,6 +60,9 @@ Dublin](https://www.tcd.ie).
 * [video pt3 (05/03/2018)](https://youtu.be/Si7FGw5ZF6M)
 
 ## 08 - Motion
+* [ppt slides](/handouts/ho8_motion_1516.pptx)
+* [video 1 (8/03/2018)](https://youtu.be/KCi47MtiFh8)
+* [video 2 (9/03/2018)](https://youtu.be/wSuYyks73Rk)
 
 ## 09 - Video Compression
 
