@@ -65,7 +65,9 @@ Dublin](https://www.tcd.ie).
 * [video pt2 (9/03/2018)](https://youtu.be/wSuYyks73Rk)
 * [video pt3 (12/03/2018)](https://youtu.be/CN6JZoywM0g)
 
-## 09 - Video Compression
+## 09 - Video Compensated Video Processing
+* [video pt1 (15/03/2018)](https://youtu.be/-yEV7oLSppw)
+* [video pt2 (16/03/2018)](https://youtu.be/IxDUfjFTHtc)
 
 ## 10 - MPEG2
 
