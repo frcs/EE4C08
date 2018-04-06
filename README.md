@@ -66,10 +66,12 @@ Dublin](https://www.tcd.ie).
 * [video pt3 (12/03/2018)](https://youtu.be/CN6JZoywM0g)
 
 ## 09 - Video Compensated Video Processing
+* [ppt slides](/handouts/ho9_video_apps_1516.pptx)
 * [video pt1 (15/03/2018)](https://youtu.be/-yEV7oLSppw)
 * [video pt2 (16/03/2018)](https://youtu.be/IxDUfjFTHtc)
 
 ## 10 - MPEG2
+* [pdf slides](/handouts/handout-10-mpeg2.pdf)
 
 ## Working with Matlab
 * [video 1 (25/01/2018)](https://youtu.be/_ST2bh1Dey8)
