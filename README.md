@@ -82,4 +82,8 @@ Dublin](https://www.tcd.ie).
 * [tutorial 1 - Q1,Q2 (15/02/2018)](https://youtu.be/KDOWEmsUHm8)
 * [tutorial 1 - Q4 (16/02/2018)](https://youtu.be/UwuosXZgu2I)
 
+* [sample exam (based on the 2016/2017 exam) pdf](/tutorials/EE408-sample-exam.pdf)
+* [sample exam solutions) pdf](/tutorials/EE408-sample-exam-solutions.pdf)
+
+* [all previous year question papers) pdf](/tutorials/)
 
